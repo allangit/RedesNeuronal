@@ -5,6 +5,9 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers.core import activation
 
+'''
+problemas de clasificacion
+'''
 
 class Redes:
     
