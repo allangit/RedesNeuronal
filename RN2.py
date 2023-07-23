@@ -15,4 +15,4 @@ class Clasificacion:
         self.x
         self.y
         self.model
-        self.
+        self.prediccion
