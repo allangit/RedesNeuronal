@@ -6,7 +6,7 @@ from keras.layers import Dense
 from keras.layers.core import activation
 
 '''
-problemas de clasificacion
+problemas de clasificacion redes neuronales
 '''
 
 class Redes:
