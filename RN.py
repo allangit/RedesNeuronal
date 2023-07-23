@@ -5,7 +5,6 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers.core import activation
 
-
 class Redes:
     
     def __init__(self):
@@ -40,8 +39,7 @@ class Redes:
         print('Promedio {}'.format(self.accuracy*100))
         
     def predicciones(self):
-        
-        
+           
         self.prediccion=self.model.predict(self.x)
         
         for i in range(20):
